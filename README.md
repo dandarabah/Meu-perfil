@@ -3,7 +3,7 @@ Sejam bem-vindos a minha página!!
 
 <! --
 
-<img allng="right" alt="GIF" src= "https://github.com/user-attachments/assets/4b310113-27de-447d-9ed6-9d5db4b797d4" width="400px" />
+<img allng="right" alt="GIF" src= "https://github.com/user-attachments/assets/3424f284-6818-4f79-9469-4ac1cef44bef" width="400px" />
 
 
 ## 🚀 Sobre mim
@@ -38,7 +38,8 @@ Sinta-se à vontade para se conectar comigo ou conferir meus projetos.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="40" height="40" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
-
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
 ## Estatísticas
 
