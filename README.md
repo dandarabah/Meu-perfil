@@ -1,7 +1,9 @@
 # Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
+<p align="center">
 <img width="350" height="200" alt="Gemini_Generated_Image_f6poslf6poslf6po" src="https://github.com/user-attachments/assets/20ee68ba-9529-40e3-9dc9-db41f773c7d7" />
-
+<p>
+  
 ## 🚀 Sobre mim
 
 **QA Professional** com mais de **10 anos de experiência** em Qualidade de Software, atuando em ambientes críticos e de alta complexidade — com forte direcionamento para o **setor bancário, fintechs e sistemas financeiros**. 
