@@ -16,8 +16,6 @@ Possuo sólida vivência na análise de regras de negócio, elaboração e execu
 
 ## 🛠️ Principais Competências & Habilidades
 
-## 🛠️ Principais Competências & Habilidades
-
 * **Garantia da Qualidade (QA):** Estratégia e execução de Testes Funcionais e Regressivos, Validação de APIs (REST) e Backend, além de Gestão de Defeitos e Incidentes.
 * **Domínio de Negócio:** Open Banking, Meios de Pagamento, Regras Bancárias e Meios de Arrecadação.
 * **Automação: de Testes:** Selenium WebDriver, Cypress, Testes de API e BDD com Cucumber.
