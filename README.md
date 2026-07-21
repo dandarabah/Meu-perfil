@@ -1,9 +1,5 @@
 # Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
-<div align="center">
-  <img align="right" alt="QA Animation" src="https://github.com/user-attachments/assets/3424f284-6818-4f79-9469-4ac1cef44bef" width="380px" />
-</div>
-
 ## 🚀 Sobre mim
 
 **QA Professional** com mais de **10 anos de experiência** em Qualidade de Software, atuando em ambientes críticos e de alta complexidade — com forte direcionamento para o **setor bancário, fintechs e sistemas financeiros**. 
