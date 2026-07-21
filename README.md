@@ -1,7 +1,7 @@
 # Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
 <p align="center">
-  <img src="Downloads" alt="Logo do Projeto Quality Assurance" width="300" />
+  <img src="C:\Users\Usuário\Downloads" alt="Logo do Projeto Quality Assurance" width="300" />
 </p>
 
 ## 🚀 Sobre mim
