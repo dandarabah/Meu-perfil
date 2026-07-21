@@ -1,59 +1,54 @@
-## Olá pessoal 👋
-Sejam bem-vindos a minha página!!
+# Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
-<! --
-
-<img allng="right" alt="GIF" src= "https://github.com/user-attachments/assets/3424f284-6818-4f79-9469-4ac1cef44bef" width="400px" />
-
+<div align="center">
+  <img align="right" alt="QA Animation" src="https://github.com/user-attachments/assets/3424f284-6818-4f79-9469-4ac1cef44bef" width="380px" />
+</div>
 
 ## 🚀 Sobre mim
-Desde 2016, tenho atuado na área de Qualidade de Software e desempenhando diversas funções cruciais para garantir a excelência de sistemas e produtos. Minha experiência abrange desde o entendimento do negócio e elaboração de cenários de teste até a execução de testes funcionais e de regressão, gestão de bugs e apoio às equipes de desenvolvimento, produtos e QA.
-A minha trajetória profissional é marcada pela dedicação à qualidade e pela capacidade de trabalhar de forma colaborativa e eficaz com diversas equipes, sempre focado em entregar soluções de alta qualidade que atendam às necessidades do negócio. Gosto de colaborar com outras pessoas, aprender novas tecnologias e melhorar continuamente minhas habilidades.
 
+**QA Professional** com mais de **10 anos de experiência** em Qualidade de Software, atuando em ambientes críticos e de alta complexidade — com forte direcionamento para o **setor bancário, fintechs e sistemas financeiros**. 
 
-## 💼 Competências Adicionais:
-Tenho competências em análise financeira, contas a pagar, elaboração de casos de teste, consulta ao banco de dados, elaboração de manual de usuário, controle e planejamento relacionados à qualidade de software, controle de atividades e repasse de informações, e responsabilidades como análise de variações de faturamento, conferência de testes, reporte de divergências e propostas de melhorias.
+Possuo sólida vivência na análise de regras de negócio, elaboração e execução de testes funcionais e de regressão, testes de API, validações de backend e gestão de massa de dados. Atuo de forma ativa em **squads ágeis (Scrum)** em projetos estratégicos para Meios de Pagamento, Open Banking, Soluções de Crédito e Arrecadação.
 
-## 🛠️ Habilidades
-- **Ferramentas:** Git, Github, Visual Studio Code
-- Terminal
-- Automação Selenium WebDrive com Junit
+💼 **Histórico em Grandes Instituições:** Passagens por grandes instituições financeiras, fintechs e consultorias de tecnologia de grande porte, garantindo a qualidade e confiabilidade de sistemas transacionais de alto volume.
 
-## 🌱 Atualmente aprendendo
-- Mentoria do Julio de Lima
-- Cypress
-- Modelagem de Dados
+---
 
-## ⚡ Algumas curiosidades 
-- Adoro fazer caminhadas e explorar novas trilhas. :deciduous_tree: :cherry_blossom:  :dolphin:
-- Amooo beber vinho sozinha ou com os amigos e petiscar. :wine_glass: :oden: :pizza: :fries:
-- No meu tempo livre, gosto de assistir filmes, séries e ler. :books: :movie_camera:  :tv:
+## 🛠️ Principais Competências & Habilidades
 
-</br>
+## 🛠️ Principais Competências & Habilidades
 
-Sinta-se à vontade para se conectar comigo ou conferir meus projetos.
-  
--->
+* **Garantia da Qualidade (QA):** Estratégia e execução de Testes Funcionais e Regressivos, Validação de APIs (REST) e Backend, além de Gestão de Defeitos e Incidentes.
+* **Domínio de Negócio:** Open Banking, Meios de Pagamento, Regras Bancárias e Meios de Arrecadação.
+* **Automação: de Testes:** Selenium WebDriver, Cypress, Testes de API e BDD com Cucumber.
+* **Linguagem:** Java Script
+* **Banco de Dados:** MySQL
+* **Ferramentas & Integração Contínua:** Git, GitHub, Jenkins, Postman, VS Code, Visual Studio e Terminal.
 
-## Ferramentas e Tecnologias
+---
 
+## 🌱 Atualmente Aprimorando
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="50" height="50" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />         
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+* 🎯 **Mentoria:** Aluno(a) na Mentoria do Julio de Lima (Especialização em Testes e QA).
+* 🧪 **Automação & BDD:** Aprofundamento em Cypress e Cucumber (BDD).
+* 🔌 **APIs & Dados:** Avançando em Arquitetura de API REST e Modelagem de Dados avançada.
 
+---
 
-          
-          
-          
-          
+## 🛠️ Tecnologias & Ferramentas
 
-## Estatísticas
+![QA](https://img.shields.io/badge/Quality_Assurance-00599C?style=for-the-badge&logo=target&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<div>
-<a href="https://github.com/dandarabah">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandarabah&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dandarabah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+---
+<div align="center">
+  <sub>Sinta-se à vontade para conectar, explorar meus repositórios ou trocar uma ideia sobre QA!</sub>
 </div>
