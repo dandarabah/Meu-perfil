@@ -1,6 +1,6 @@
 # Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
-<img width="1200" height="1000" alt="Gemini_Generated_Image_f6poslf6poslf6po" src="https://github.com/user-attachments/assets/20ee68ba-9529-40e3-9dc9-db41f773c7d7" />
+<img width="200" height="100" alt="Gemini_Generated_Image_f6poslf6poslf6po" src="https://github.com/user-attachments/assets/20ee68ba-9529-40e3-9dc9-db41f773c7d7" />
 
 ## 🚀 Sobre mim
 
