@@ -1,8 +1,6 @@
 # Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
-<p align="center">
-  <img src="C:\Users\Usuário\Downloads" alt="Logo do Projeto Quality Assurance" width="300" />
-</p>
+<img width="1408" height="768" alt="Gemini_Generated_Image_f6poslf6poslf6po" src="https://github.com/user-attachments/assets/20ee68ba-9529-40e3-9dc9-db41f773c7d7" />
 
 ## 🚀 Sobre mim
 
