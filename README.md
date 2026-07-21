@@ -1,5 +1,9 @@
 # Olá, pessoal! 👋 Seja bem-vindo(a) ao meu perfil!
 
+<p align="center">
+  <img src="./logo-qa.png" alt="Logo do Projeto Quality Assurance" width="300" />
+</p>
+
 ## 🚀 Sobre mim
 
 **QA Professional** com mais de **10 anos de experiência** em Qualidade de Software, atuando em ambientes críticos e de alta complexidade — com forte direcionamento para o **setor bancário, fintechs e sistemas financeiros**. 
